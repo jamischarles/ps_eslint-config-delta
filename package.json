@@ -1,0 +1,19 @@
+{
+  "name": "eslint-config-delta",
+  "version": "1.0.0",
+  "description": "A simple ESLint Config to demonstrate shareable configs for the Pluralsight Course on ESLint.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+	"eslint": ">= 3",
+    "eslint-plugin-this": "^0.2.2"
+  },
+  "keywords": [
+    "ESLint",
+    "ESLint-Config"
+  ],
+  "author": "Jamis Charles",
+  "license": "ISC"
+}
